@@ -28,14 +28,7 @@ os.system('cls')
 
 
 print(Colorate.Horizontal(Colors.blue_to_purple, """ 
-                                                (                    
-                                                )\ )                 
-                                                (()/(  (              
-                                                /(_))))\ (  (    (   
-                                                (_)) /((_))\ )\   )\  
-                                                | _ (_)) ((_|(_) ((_) 
-                                                |   / -_) _/ _ \/ _ \ 
-                                                |_|_\___\__\___/\___/ 
+                                               By-Khaos#7130
                                                                     """, 1))
 
 colorama.init()
